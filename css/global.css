@@ -1,0 +1,142 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+
+
+    background-color: #201f24;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+
+h1 {
+
+    text-align: center;
+
+    width: 630px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 70px;
+    color: white;
+
+    font-size: 28px;
+
+}
+
+
+.subtitle {
+
+    color: white;
+    font-size: 20px;
+
+    text-align: center;
+
+    
+    margin-right: 456px;
+    margin-bottom: 10px;
+    
+    
+
+
+}
+
+
+.tasks {
+
+    width: 630px;
+    margin: 0 auto;
+
+    color: white;
+
+    list-style-type: none;
+
+
+}
+
+
+.task1 {
+
+    box-sizing: border-box;
+    padding: 15px;
+    width: 600px;
+    background-color: #2a292e;
+    margin: 0 auto;
+    margin-bottom: 10px;
+
+
+}
+
+.task2 {
+
+    box-sizing: border-box;
+    padding: 15px;
+    width: 600px;
+    background-color: #194e78;
+    text-decoration: line-through;
+
+    border: solid 2px;
+    border-color: #1d77b5;
+    margin: 0 auto;
+    margin-bottom: 10px;
+
+
+
+}
+
+.task3 {
+
+    box-sizing: border-box;
+    padding: 15px;
+    width: 600px;
+    background-color: #2a292e;
+    margin: 0 auto;
+    margin-bottom: 10px;
+
+
+
+}
+
+.task4 {
+
+    box-sizing: border-box;
+    padding: 15px;
+    width: 600px;
+    background-color: #2a292e;
+    margin: 0 auto;
+    margin-bottom: 10px;
+
+
+}
+
+
+
+
+
+.direitosReservados {
+
+    text-align: center;
+
+    background-color: #2a292e;
+
+    border-style: solid 1px;
+    border-color: #636268;
+    border-style: dashed;
+
+    box-sizing: border-box;
+
+    width: 600px;
+
+    padding: 35px;
+
+    margin: auto;
+    margin-top: 40px;
+
+}
